@@ -1,0 +1,4 @@
+date,distance,time,pace,week_type
+2025-04-21 00:00:00,100,1.0,0.6,threshold
+2025-04-22,2000,10.0,0.3,taper
+2025-04-23,5000,30.0,0.36,threshold
